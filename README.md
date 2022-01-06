@@ -1,4 +1,4 @@
-# App Center Sample App for iOS
+# App Center CI/CD Environment for iOS Mobile Apps
 
 The iOS application in this repository and its corresponding tutorials will help you quickly and easily onboard to Visual Studio App Center.
 
